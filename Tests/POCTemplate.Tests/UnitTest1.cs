@@ -4,6 +4,9 @@ namespace POCTemplate.Tests;
 
 public class UnitTest1
 {
+    /// <summary>
+    /// Verifies that a constant boolean value is true using Shouldly assertions.
+    /// </summary>
     [Fact]
     public void Test1()
     {
