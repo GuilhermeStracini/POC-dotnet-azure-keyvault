@@ -9,4 +9,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: CSharpier Linter
-        uses: guibranco/github-csharpier-linter-action@v1.0.25
+        uses: guibranco/github-csharpier-linter-action@7cecc055044a24d226b8b17fc67c864e64da945f # v1.0.24
